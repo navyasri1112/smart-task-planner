@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/smart-task-planner/' // <-- Add this line for GitHub Pages
 });
