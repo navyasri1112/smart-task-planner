@@ -23,7 +23,6 @@ It enables efficient project planning by breaking large objectives into smaller 
 | Category | Technology Used |
 |-----------|----------------|
 | **Frontend** | React (Vite) |
-| **Styling** | Tailwind CSS, Lucide Icons |
 | **Backend / Authentication** | Supabase |
 | **Database** | Supabase Tables (Goals, Tasks, Dependencies) |
 | **Planned AI Integration** | OpenAI API / LLM (for goal-to-task reasoning) |
